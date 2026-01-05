@@ -1,6 +1,6 @@
 name: mvc_generator
 description: A Flutter MVC architecture generator.
-version: 1.0.0
+version: 1.0.1
 # repository: https://github.com/my_org/my_repo
 
 homepage: https://github.com/shaharyar4t4/mvc_generator
@@ -10,7 +10,7 @@ environment:
   sdk: ^3.9.2
 
 executables:
-  mvc_generator: mvc_generator
+  mvc_generator: flutter pub mvc_generator
 
 # Add regular dependencies here.
 dependencies:
