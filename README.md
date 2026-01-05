@@ -1,29 +1,24 @@
-## MVC Generator
+# MVC Generator for Flutter 🚀
 
-A Dart CLI tool to generate MVC folder structure for Flutter projects.
+MVC Generator is a simple and powerful **Dart CLI tool** that helps Flutter developers quickly generate a clean and scalable **MVC (Model–View–Controller)** folder architecture inside their Flutter projects.
 
-### Install
+It eliminates repetitive setup work and enforces a well-structured project layout from the start.
+
+---
+
+## ✨ Features
+
+- 📁 Automatically generates MVC folder structure
+- ⚡ Works with any Flutter project
+- 🧠 Clean and scalable architecture
+- 🛠 Lightweight with no external dependencies
+- 🚀 Easy-to-use CLI command
+
+---
+
+## 📦 Installation
+
+Activate the package globally using Dart:
+
+```bash
 dart pub global activate mvc_generator
-
-### Usage
-mvc_generator
-
-### Output
-Creates MVC folders automatically inside lib/
-
-MIT License
-
-Copyright (c) 2026 Shaharyar Ali
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
