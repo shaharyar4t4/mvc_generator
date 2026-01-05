@@ -10,7 +10,7 @@ environment:
   sdk: ^3.9.2
 
 executables:
-  mvc_generator: flutter pub mvc_generator
+  flutter pub mvc_generator: mvc_generator
 
 # Add regular dependencies here.
 dependencies:
