@@ -21,4 +21,4 @@ It eliminates repetitive setup work and enforces a well-structured project layou
 Activate the package globally using Dart:
 
 ```bash
-dart pub global activate mvc_generator
+mvc_generator
