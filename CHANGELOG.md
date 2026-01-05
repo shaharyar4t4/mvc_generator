@@ -11,3 +11,6 @@
 - Documentation updates
 - Internal refactoring
 
+## 1.0.3
+- Change the commands
+
